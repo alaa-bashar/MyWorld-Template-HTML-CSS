@@ -13,7 +13,7 @@ I recoded from scratch this template (which was uploaded for educational purpose
   <li>Pure HTML and CSS.</li>
 </ol>
 <br/>
-### Here is a video showing the website on my LinkedIn [link]([https://www.linkedin.com/feed/update/urn:li:activity:6918566836125007872/](https://www.linkedin.com/posts/alaa-bashar-9526451a4_myworld-template-responsive-template-using-activity-6960709017602019328--zD_?utm_source=linkedin_share&utm_medium=member_desktop_web))
+### Here is a video showing the website on my LinkedIn [link](https://www.linkedin.com/posts/alaa-bashar-9526451a4_myworld-template-responsive-template-using-activity-6960709017602019328--zD_?utm_source=linkedin_share&utm_medium=member_desktop_web)
 <br/>
 <h3>Desktop Preview</h3>
 <img src="README assets/desktop-preview.jpeg" width="500"></img>
