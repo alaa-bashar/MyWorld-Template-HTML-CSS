@@ -1,10 +1,10 @@
 <h1>MyWorld Template</h1>
 
 <h2>Responsive Template using HTML & CSS</h2>
-To strength my skills in CSS and cover most of it's topics,
-I recoded from scratch this template (which was uploaded for educational purposes on ELZERO ACADEMY website).
+To strengthen my skills in CSS and cover most of its topics,
+I recoded from scratch this template (which was uploaded for educational purposes on the ELZERO ACADEMY website).
 
-<h3>The origin code for the website is sort of legacy code so this is the changes I have made:</h3>
+<h3>The original code for the website is a sort of legacy code so these are the changes I have made:</h3>
 <ol>
   <li>Semantic HTML.</li>
   <li>Responsive design that matches sizes for modern devices.</li>
