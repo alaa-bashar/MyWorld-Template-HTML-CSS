@@ -9,7 +9,7 @@ I recoded from scratch this template (which was uploaded for educational purpose
   <li>Semantic HTML.</li>
   <li>Responsive design that matches sizes for modern devices.</li>
   <li>Fixing some bugs in the old layout.</li>
-  <li>Following Clean Coding laws for readability and easier maintenance process.</li>
+  <li>Following Clean Coding rules for more readability and easier maintenance process.</li>
   <li>Pure HTML and CSS.</li>
 </ol>
 <br/>
