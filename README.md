@@ -1,7 +1,6 @@
 <h1>MyWorld Template</h1>
 
 <h2>Responsive Template using HTML & CSS</h2>
----------------------------------------------
 To strength my skills in CSS and cover most of it's topics,
 I recoded from scratch this template (which was uploaded for educational purposes on ELZERO ACADEMY website).
 
