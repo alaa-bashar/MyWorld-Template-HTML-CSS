@@ -12,3 +12,9 @@ I recoded from scratch this template (which was uploaded for educational purpose
   <li>Following Clean Coding laws for readability and easier maintenance process.</li>
   <li>Pure HTML and CSS.</li>
 </ol>
+<br/>
+<br/>
+<h3>Desktop Preview</h3>
+<img src="README assets/desktop-preview.jpeg" width="500"></img>
+<h3>Mobile Preview</h3>
+<img src="README assets/mobile-preview.jpeg" width="300"></img>
