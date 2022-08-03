@@ -13,7 +13,6 @@ I recoded from scratch this template (which was uploaded for educational purpose
   <li>Pure HTML and CSS.</li>
 </ol>
 <br/>
-<br/>
 <h3>Desktop Preview</h3>
 <img src="README assets/desktop-preview.jpeg" width="500"></img>
 <h3>Mobile Preview</h3>
