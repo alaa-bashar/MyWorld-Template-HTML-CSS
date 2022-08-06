@@ -13,6 +13,8 @@ I recoded from scratch this template (which was uploaded for educational purpose
   <li>Pure HTML and CSS.</li>
 </ol>
 <br/>
+<h3>The website is deployed, you can visit is through this <a href="https://superlative-lily-d3b9e3.netlify.app/">[Link]</a></h3>
+<br/>
 <h3>Here is a video showing the website on my LinkedIn <a href="https://www.linkedin.com/posts/alaa-bashar-9526451a4_myworld-template-responsive-template-using-activity-6960709017602019328--zD_?utm_source=linkedin_share&utm_medium=member_desktop_web">[Link]</a></h3>
 <br/>
 <h3>Desktop Preview</h3>
